@@ -1,0 +1,40 @@
+body
+{
+    background-color:lightgrey;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+ul
+{
+    list-style: disc;
+}
+li.ab
+{
+    list-style-type:circle;
+}
+li.ac
+{
+    list-style: circle;
+}
+ol.aa
+{
+    list-style: square;
+}
+ol.ab
+{
+    list-style-type: circle;
+}
+h2
+{
+    text-transform: uppercase;
+    color:navy;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1;
+    text-shadow: 4px 4px 4px black;
+}
+pre
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
